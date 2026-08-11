@@ -42,6 +42,7 @@ This project uses [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
 Clone the repository:
 
 ```bash
+git clone https://github.com/idirisovi4j-create/pokemon-app.git
 
 
 
