@@ -33,6 +33,10 @@ A Pokémon list application built with React using the PokéAPI.
 - Loading and error states
 - Passing data through props
 
+## 🌐 Live Demo
+
+[View Pokemon App](https://pokemon-app-sigma-sooty.vercel.app)
+
 ## 🌐 API
 
 This project uses [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
@@ -43,7 +47,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/idirisovi4j-create/pokemon-app.git
-
+cd pokemon-app
+npm install
+npm run dev
 
 
 👨‍💻 Author
